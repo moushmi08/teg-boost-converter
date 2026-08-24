@@ -5,7 +5,7 @@ converter to step up its low output voltage into something usable.
 
 ## About the Project
 
-Most power generation wastes a huge chunk of energy as heat — think of
+Most power generation wastes a huge chunk of energy as heat. Think of
 the heat pouring out of a power plant's cooling towers. A thermoelectric
 generator (TEG) can turn some of that wasted heat directly into
 electricity with no moving parts, by exploiting the Seebeck effect: when
